@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Brian's Raspberry Pi Irrigation System"
+categories: overview
 ---
 
 ### Welcome

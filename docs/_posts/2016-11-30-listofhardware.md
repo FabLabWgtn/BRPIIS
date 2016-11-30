@@ -1,13 +1,13 @@
 ---
 layout: page
 categories: hardware
-title: "List of Hardware Required"
+title: "Hardware Required"
 subtitle: ""
 date: 2016-11-30 12:45:00 + 1300
 ---
 
 This page provides an overview of the hardware that Brian used in his system and recommends.
-Please do lots of research to find the best solution for you set up and goals.
+Please do lots of research to find the best solution for your set up and goals.
 
 ### Raspberry Pi
 The Raspberry Pi will be the main controller for the system. It will be in charge of schedule each valve to turn on and off at predefined times
