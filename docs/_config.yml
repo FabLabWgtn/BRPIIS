@@ -21,7 +21,7 @@ codeurl: 'https://github.com/FabLabWgtn/PIIRRI'
 sections: [
     ['overview', 'Overveiw'],
     ['hardware', 'Hardware'],
-    ['tut', 'Tutorial'],
+    ['software', 'Software'],
     ['ref', 'Reference'],
     ['dev', 'Developers'],
     ['post', 'Posts']
