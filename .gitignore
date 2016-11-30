@@ -7,6 +7,7 @@
 _site/
 .sass-cache/
 .jekyll-metadata
+_config_dev.yml
 
 #SketchUp Backup
 *.skb
