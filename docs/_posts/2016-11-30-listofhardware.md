@@ -3,7 +3,7 @@ layout: page
 categories: hardware
 title: "Hardware Required"
 subtitle: ""
-date: 2016-11-30 12:45:00 + 1300
+order: 0
 ---
 
 This page provides an overview of the hardware that Brian used in his system and recommends.
