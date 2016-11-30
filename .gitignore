@@ -18,6 +18,8 @@ _config_dev.yml
 # Icon must end with two \r
 Icon
 
+# Folders to ignore
+ignoreme
 
 # Thumbnails
 ._*
