@@ -1,18 +1,13 @@
 ---
 layout: default
-title: "Jekyll Docs Template"
+title: "Brian's Raspberry Pi Irrigation System"
 ---
 
-### Get Started
+### Welcome
 
-Start by [creating a new post](http://jekyllrb.com/docs/posts/) one of the categories listed in `_config.yml`. It will appear in the navigation on the left once recompiled. Or use the supplied script to make creating pages easier:
+This is the Documentation for a project started by Brain in Adelaide. After becoming concerned about the growing layer of dust on his Raspberry Pi Brian decided to put it to good use a Raspberry PI IRRIgation system.
 
-```bash
-ruby bin/jekyll-page "Some Page Title" ref
-```
 
-#### Don't Forget
+#### Documentation Status
 
-- Add your own content to this page (i.e. `index.md`) and change the `title`
-- Change `title` and `subtitle` defined in `config.yml` for your site
-- Set the `baseurl` in `_config.yml` for your repo if deploying to GitHub pages
+This Documentation site is currently being expanded and worked on. Any issues, questions or queries do not hesitate to email me at [iliffe.harry@gmail.com](mailto:iliffe.harry@gmail.com)
