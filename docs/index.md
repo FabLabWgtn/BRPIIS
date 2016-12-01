@@ -6,7 +6,7 @@ categories: overview
 
 ### Welcome
 
-This is the Documentation for a project started by Brain in Adelaide. After becoming concerned about the growing layer of dust on his Raspberry Pi Brian decided to put it to good use a Raspberry PI IRRIgation system.
+This is the Documentation for a project started by Brian in Adelaide. After becoming concerned about the growing layer of dust on his Raspberry Pi Brian decided to put it to good use a Raspberry PI IRRIgation system.
 
 
 #### Documentation Status

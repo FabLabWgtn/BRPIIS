@@ -19,7 +19,7 @@ pre, code, pre code {
 }
 
 .highlight {
-    background-color: #f9f9f9;
+    background-color: #ced3db;
 }
 
 pre {
@@ -27,7 +27,7 @@ pre {
 }
 
 code.highlighter-rouge {
-  border-style: dashed;
+  border-style: solid;
   border-width: thin;
   border-color: #4b5263;
   border-radius: 0;
