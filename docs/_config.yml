@@ -22,9 +22,9 @@ sections: [
     ['overview', 'Overveiw'],
     ['hardware', 'Hardware'],
     ['software', 'Software'],
-    ['ref', 'Reference'],
-    ['dev', 'Developers'],
-    ['post', 'Posts']
+    # ['ref', 'Reference'],
+    # ['dev', 'Developers'],
+    # ['post', 'Posts']
 ]
 
 # Keep as an empty string if served up at the root. If served up at a specific

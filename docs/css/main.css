@@ -6,14 +6,14 @@ body {
     /* text-shadow: 0 0.5px 0.5px grey; */
     background-color: #282c34;
     color: hsl(219, 13%, 85%);
+    font-size: 1.4em;
 }
 
 pre, code, pre code {
-    border-style: dashed;
     border-width: thin;
     border-color: #4b5263;
     border-radius: 0;
-    background-color: #21252b;
+    /*background-color: #abb2bf;*/
     font-size: 0.85em;
 
 }
@@ -26,8 +26,14 @@ pre {
     font-size: 1em;
 }
 
-code {
-    color: inherit;
+code.highlighter-rouge {
+  border-style: dashed;
+  border-width: thin;
+  border-color: #4b5263;
+  border-radius: 0;
+  background-color: #21252b;
+  font-size: 0.85em;
+  color: inherit;
 }
 
 #header {
@@ -67,14 +73,20 @@ code {
     border-bottom: 1px solid darkgrey;
 }
 
+
 #navigation {
-    font-size: 1.1em;
+    font-size: 1.2em;
     background-color: #21252b;
 }
 
 #navigation .nav-home {
   padding-top: 10px;
   padding-bottom: 0px;
+}
+
+#navigation .nav-last {
+  padding-bottom: 10px;
+  color: blue;
 }
 
 #navigation li a {
